@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodof-collab
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python OOP
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gloomywanderer in discord
 - 😄 Pronouns: He/Him
